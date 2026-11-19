@@ -21,9 +21,9 @@ from aiogram.types import (
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 from dotenv import load_dotenv
 
-BOT_TOKEN = "8730350349:AAHF_OOhS_KOUMjuTGq6yX0vpZOTDqJihuA"
+BOT_TOKEN = "8913852565:AAEQ5EKtMBPno0hdFlg5_erx8SWMSYXsaHk"
 
-ADMIN_ID = 8385172584
+ADMIN_ID = 7565102783
 
 ADMIN_IDS = {ADMIN_ID}
 UPDATE_CHANNEL = os.getenv("UPDATE_CHANNEL", "").strip()
